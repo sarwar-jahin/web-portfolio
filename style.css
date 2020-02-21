@@ -1,0 +1,87 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
+.color-highlight{
+    color: orange;
+}
+h1{
+    font-size: 50px;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 4%;
+    margin-top: 100px;
+}
+.half-width img{
+    width: 100%;
+}
+.top-banner{
+    
+    background-image: url(images/background.png);
+}
+section{
+    height: 500px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, lightsalmon, tomato);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+.another-width{
+    width: 45%;
+    margin-left: 4%;
+    float: left;
+    margin-top: 100px;
+    margin-bottom: 60px;
+}
+.another-width img{
+    width: 60%;
+    margin-top: 50px;
+}
+.resume{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, lightsalmon, tomato);
+    padding: 10px 20px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+}
+#achievements{
+    text-align: left;
+    margin-top: 100px;
+}
+.another-banner{
+    margin-top: 150px;
+}
+#achievements{
+    margin-top: 80px;
+    margin-left: 4%;
+}
+.third-section-div{
+    width: 40%;
+    margin-left: 4%;
+    float: left;
+}
+.title-color{
+    color: orange;
+}
+.third-section-div{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    padding: 5px 20px;
+}
+#when-we{
+    border-left: 7px solid;
+    border-image: linear-gradient(lightsalmon, tomato);
+    border-image-slice: 1;
+}
+#best-seller{
+    border-left: 7px solid;
+    border-image: linear-gradient(navy, black);
+    border-image-slice: 1;
+}
